@@ -1,0 +1,31 @@
+{
+  "name": "react-fancy-form",
+  "version": "1.0.0",
+  "description": "A contact form with an old school look and feel",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/GuillemBagur/react-fancy-form.git"
+  },
+  "keywords": [
+    "form",
+    "fancy"
+  ],
+  "author": "Guiem Bagur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuillemBagur/react-fancy-form/issues"
+  },
+  "homepage": "https://github.com/GuillemBagur/react-fancy-form#readme",
+  "peerDependencies": {
+    "react": ">=15.0.1",
+    "react-dom": ">=15.0.1"
+  },
+  "devDependencies": {
+    "react": ">=15.0.1",
+    "react-dom": ">=15.0.1"
+  }
+}
